@@ -22,10 +22,10 @@ python create_moodle_xml.py /path/to/your/excel/file.xlsx
 ## Entrada
 El archivo Excel debe tener el siguiente formato:
 
-Una columna titulada Pregunta para el enunciado de la pregunta.
-Cuatro columnas tituladas Opcion1, Opcion2, Opcion3, Opcion4 para las opciones de respuesta.
-Una columna titulada Correcta que contiene el índice de la opción correcta (1, 2, 3 o 4).
-Una columna titulada Explicación que proporciona retroalimentación o una explicación para la respuesta correcta.
+- Una columna titulada Pregunta para el enunciado de la pregunta.
+- Cuatro columnas tituladas Opcion1, Opcion2, Opcion3, Opcion4 para las opciones de respuesta.
+- Una columna titulada Correcta que contiene el índice de la opción correcta (1, 2, 3 o 4).
+- Una columna titulada Explicación que proporciona retroalimentación o una explicación para la respuesta correcta.
 
 
 ## Salida
