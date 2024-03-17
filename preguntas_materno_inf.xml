@@ -1,0 +1,1076 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál de los siguientes anticonceptivos de barrera previene tanto el embarazo como la transmisión de enfermedades de transmisión sexual (ETS)?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál de los siguientes anticonceptivos de barrera previene tanto el embarazo como la transmisión de enfermedades de transmisión sexual (ETS)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es D) Preservativo masculino y Preservativo femenino. Tanto el preservativo masculino como el preservativo femenino son los únicos anticonceptivos de barrera que proporcionan protección tanto contra el embarazo como contra las ETS. Estos métodos actúan como una barrera física que evita que los espermatozoides entren en contacto con el óvulo y, al mismo tiempo, impiden el contacto directo de los fluidos corporales, reduciendo así el riesgo de transmisión de ETS. Los otros métodos mencionados (diafragma y esponja vaginal) son efectivos para prevenir el embarazo, pero no ofrecen protección contra las ETS.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Diafragma</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Preservativo masculino</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Preservativo femenino </p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p> Las respuestas B) y C) son correctas</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál es la función principal de los métodos anticonceptivos de emergencia, también conocidos como pastillas del día después?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál es la función principal de los métodos anticonceptivos de emergencia, también conocidos como pastillas del día después?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es C) Retrasar o inhibir la ovulación después de una relación sexual de riesgo. Los métodos anticonceptivos de emergencia, como las pastillas del día después, están diseñados para prevenir el embarazo en situaciones de emergencia, como cuando otros métodos anticonceptivos fallan o no se utilizan correctamente. Actúan principalmente retrasando o inhibiendo la ovulación, lo que reduce la posibilidad de que un óvulo sea fertilizado por un espermatozoide. A diferencia de otros métodos anticonceptivos, no proporcionan protección contra las enfermedades de transmisión sexual. Es importante destacar que estos métodos no deben usarse de forma regular debido a los efectos secundarios y se recomienda buscar atención médica en caso de sangrado prolongado después de su ingesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p> Prevenir la transmisión de enfermedades de transmisión sexual. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p> Proteger contra el embarazo de manera rutinaria. </p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Retrasar o inhibir la ovulación después de una relación sexual de riesgo. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Proporcionar una protección duradera contra el embarazo sin necesidad de tomar precauciones adicionales.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Por qué una mujer puede quedar embarazada si tiene relaciones sexuales sin protección durante las semanas anteriores a la retirada del DIU?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Por qué una mujer puede quedar embarazada si tiene relaciones sexuales sin protección durante las semanas anteriores a la retirada del DIU?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es A) Los espermatozoides pueden vivir hasta 5 días dentro del cuerpo de la mujer. Los espermatozoides pueden permanecer viables en el tracto reproductivo femenino durante varios días, incluso hasta aproximadamente 5 días. Por lo tanto, si una mujer tiene relaciones sexuales sin protección durante las semanas anteriores a la retirada del DIU, existe la posibilidad de que los espermatozoides sobrevivan lo suficiente como para fertilizar un óvulo si este es liberado durante ese período. Es importante tener en cuenta esta información al considerar la retirada del DIU o al planificar actividades sexuales sin protección. Las opciones B, C y D son incorrectas, ya que no tienen una base fisiológica o científica para explicar el riesgo de embarazo en este contexto.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Los espermatozoides pueden vivir hasta 5 días dentro del cuerpo de la mujer. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>El DIU aumenta la fertilidad durante ese período. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p> La ovulación es más frecuente antes de retirar el DIU. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>La mujer tiene una mayor receptividad al embarazo durante ese tiempo.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál de las siguientes afirmaciones es cierta sobre los espermicidas?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál de las siguientes afirmaciones es cierta sobre los espermicidas?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la C) Los espermicidas actúan eliminando o alterando la movilidad de los espermatozoides. Los espermicidas son sustancias químicas que se utilizan para matar o inmovilizar los espermatozoides, lo que ayuda a prevenir el embarazo al evitar que los espermatozoides lleguen al óvulo y lo fertilicen. Estos productos se aplican en la vagina poco antes de la actividad sexual y generalmente de 10 a 30 minutos antes del acto sexual, no de 1 a 2 horas antes, como se menciona en la opción b). Sin embargo, es importante destacar que los espermicidas no son el único método anticonceptivo químico disponible, como se indica en la opción a), y no son eficaces para prevenir enfermedades de transmisión sexual como el VIH, como se menciona en la opción d).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Los espermicidas son el único método anticonceptivo químico disponible</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Se aplican directamente en la zona vaginal de 1  a 2 horas abtes de la actividad sexual</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Los espermicidas actúan eliminando o alterando la movilidad de los espermatozoides</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Los espermicidas son eficaces para prevenir enfermedades de transmisión sexual como el VIH</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál de los siguientes NO es un tipo de agente teratógeno?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál de los siguientes NO es un tipo de agente teratógeno?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Existen 3 tipos de agentes teratógenos: genéticos, ambientales y de origen desconocido, por lo tanto, la nutrición no se considera un agente teratógeno, aunque una dieta deficiente durante el embarazo puede aumentar el riesgo de ciertas malformaciones fetales.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Factores genéticos</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Factores ambientales</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Infecciones </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nutrición</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Qué categoría de riesgo teratógenico de la FDA indica que un medicamento no tiene riesgo demostrado en estudios controlados con mujeres embarazadas?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Qué categoría de riesgo teratógenico de la FDA indica que un medicamento no tiene riesgo demostrado en estudios controlados con mujeres embarazadas?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La FDA clasifica los medicamentos en categorías de riesgo teratogénico (A-X) según la evidencia disponible sobre su seguridad durante el embarazo. La categoría A indica que no hay riesgo demostrado en estudios controlados con mujeres embarazadas.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>A</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>B</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>X</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál de las siguientes NO es una medida de prevención primaria de las malformaciones fetales?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál de las siguientes NO es una medida de prevención primaria de las malformaciones fetales?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Las medidas de prevención primaria se dirigen a individuos sanos para evitar la malformación fetal. El tratamiento de ortodoncia NO se encuentra entre ellas.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Vacunarse contra la rubéola antes del embarazo.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Consumir una dieta variada y saludable</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Realizar controles prenatales regulares</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Realizar un tratamiento de ortodoncia</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál de las siguientes NO es una responsabilidad de enfermería en la prevención primaria de las malformaciones fetales?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál de las siguientes NO es una responsabilidad de enfermería en la prevención primaria de las malformaciones fetales?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Realizar un parto por cesárea es una decisión médica que se toma en función de las condiciones específicas del embarazo y del parto, por lo tanto no es una responsabilidad de enfermería</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Realizar un parto por cesárea</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Recomendar una nutrición saludable</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Informar sobre los riesgos del consumo de alcohol, tabaco y otros tóxicos</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ayudar a la mujer a completar su calendario de vacunación</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿En cuál de los siguientes tratamientos se produce una falta de progesterona?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿En cuál de los siguientes tratamientos se produce una falta de progesterona?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la A: la falta de progesterona tiene su origen en la punción folicular llevada a cabo para extraer óvulos. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Fecundación in vitro</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Vitrificación</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Inseminación artificial</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Embarazo natural</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Dentro de las pruebas para detectar fallos congénitos NO se incluye…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dentro de las pruebas para detectar fallos congénitos NO se incluye…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la D porque la exploración abdominal (donde se realizan las maniobras de Lepold) se realiza dentro de la exploración obstétrica, no detecta fallos congénitos. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Citología</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Screening del primer trimestre</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Screening del segundo trimestre</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Exploración abdominal</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cúal de las siguientes afirmaciones en relación con la legilsación española sobre reproducción asistida?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cúal de las siguientes afirmaciones en relación con la legilsación española sobre reproducción asistida?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la C porque podría conducir a una mercantilización de la reproducción humana y  a aquellas personas con dificultad económica incentivarlas a donar sus gametos </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Respuesta A: La gestación subrograda con fines lucrativos está permitida en España. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Respuesta B: La donación de gametos y embriones en España no requiere ser altruista. </p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Respuesta C: La ley prohibe expresamente la comercialización de gametos y embriones.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Respuesta D: El Registro Nacional de Donantes en España no garantiza la confidencialidad de la identidad de los donantes </p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Qué factores de riesgo asociados a patologías se tienen que tener en cuenta para considerar una gestación de alto riesgo? ]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Qué factores de riesgo asociados a patologías se tienen que tener en cuenta para considerar una gestación de alto riesgo? </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la d)Hipertensíón arterial, ya que a pesar de que todas las opciones son factores de riesgo solo la hipertensión arterial es aquella asociada a patología.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a)Abortos de repetición</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)Relación entre peso y talla (IMC menos de 20 y más de 30)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>c)Consumo de tabaco alcohol o drogas</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>d)Hipertensión arterial</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Qué antecedentes de enfermedad hereditaria hay que comprobar o investigar en la historia clínica de la visita preconcepcional? Señalar la incorrecta:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Qué antecedentes de enfermedad hereditaria hay que comprobar o investigar en la historia clínica de la visita preconcepcional? Señalar la incorrecta:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta (falsa) es la c)Epilepsia ya que no es un antecedente de enfermedad hereditaria sino un factor de riesgo asociado a patologías.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a)Retraso mental</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)Fenilcetonuria</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>c)Epilepsia</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>d)Fibrosis quística</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Los defectos del tubo neuronal es un tipo de:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Los defectos del tubo neuronal es un tipo de:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la a)Anomalía multifactorial ya que se trata de una alteración que afecta en el desarrollo o defectos congénitos del cerebro, la columna vertebral y la médula espinal</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>a)Anomalía multifactorial</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)Anomalía unifactorial</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>c)Anomalía cromosómica</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>d)Anomalía monogénica</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Realizar una amniocentesis supone algún tipo de riesgo para la madre o el feto?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Realizar una amniocentesis supone algún tipo de riesgo para la madre o el feto?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la c)Tiene riesgo de pérdida fetal y en caso de que se realice debe ser al principio del segundo trimestre(15-20 semanas) ya que la amniocentesis consiste en la obtención de líquido amniótico a través de punción y aspiraciónn transabdominal. Puede causar infecciones, pérdidas de líquido amniótico o, en el caso más extremo, aborto espontáneo por la rotura de la bolsa amniótica.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a)No tiene ningun tipo de riesgo</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)Tiene riesgo de pérdida fetal pero se puede realizar en cualquier periodo del embarazo</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>c)Tiene riesgo de pérdida fetal y en caso de que se realice debe ser al principio del segundo trimestre(15-20 semanas)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>d)Solo supone un riesgo para la madre</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[La primera línea de tratamiento de la Diabetes Gestacional es…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>La primera línea de tratamiento de la Diabetes Gestacional es…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la 3,  porque lo primero que se recomienda frente a un buen manejo de la diabetes gestacional es una alimentación saludable y equilibrada combinado con una vida activa y ejercicio físico leve-moderado. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p> Antidiabéticos orales como la metformina. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Tratamiento único con insulina </p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Dieta y ejercicio físico</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Tratamiento con insulina y antidiabéticos orales.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Dentro de las recomendaciones dietéticas para el control de la diabetes gestacional…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dentro de las recomendaciones dietéticas para el control de la diabetes gestacional…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la 2, porque una dieta abundante en grasas trans y saturadas ademas de que podría desencadenar una cesarea por recien nacido macrosómico el feto podría desarrollar problemas cardíacos y anormalidades metabólicas. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Se recomienda una dieta centrada en ingesta de grasas moninsaturadas y saturadas.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Se recomienda una dieta centrada en la ingesta de grasas monoinsaturadas y poliinsaturadas.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Se deben evitar grasas poliinsaturadas y las grasas trans.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Se deben evitar grasas monoinsaturadas y grasas saturadas.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Una de las consecuencias de la diabetes gestacional mal tratada es…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Una de las consecuencias de la diabetes gestacional mal tratada es…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La repuesta correcta es la 2, porque  una diabetes gestacional mal tratada desenvolverá un aumento de azúcar en sangre del bebé hará que aumente su peso consecuentemente, lo que derivará en un recien nacido macrosómico. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Feto prematuro de muy bajo peso.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sobrecrecimiento fetal, recién nacido macrosómico. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Parto natural común. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Aumento de lípidos, lipiduria. </p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[En relación con la diabtes gestacional, una mujer embarazada  es considerada de alto riesgo cuando…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>En relación con la diabtes gestacional, una mujer embarazada  es considerada de alto riesgo cuando…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta corresta es la 1, porque una gestante embarazada cuando presenta antecendentes familiares de primer grado de diabetes, además tiene glucosuria, al presentar uno o ambos de los factores de riesgo es considerada de alto riesgo. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>La paciente padecede antecedentes familiares de diabetes en primer grado y tiene glucosuria. </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>La paciente es menor a 25 años con normopeso.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>La paciente tiene mas de 25 años.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>La paciente supera los 30 años y tiene un IMC de 25. </p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál es la definición correcta de climaterio?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál es la definición correcta de climaterio?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>El climaterio se define como la etapa que experimenta la mujer entre el periodo fértil y la senectud, entre los 45 y los 64 años de edad.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>a)  Es el periodo de transición entre la adolescencia y la adultez.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)  Es la etapa final de la vida, caracterizada por el envejecimiento.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>c)   Es la transición de la vida reproductiva a la no reproductiva, entre los 45 y los 64 años de edad.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>d)Es el cese permanente de la menstruación después de 12 meses de amenorrea consecutivos</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál es un síntoma vasomotor asociado al climaterio?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál es un síntoma vasomotor asociado al climaterio?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Los síntomas vasomotores asociados al climaterio incluyen los sofocos, que afectan a una gran cantidad de mujeres durante el periodo premenopáusico y menopáusico.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a)  Dolor pélvico agudo e intenso.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)  Sequedad vaginal.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>c)  Insomnio.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>d)  Sofocos.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál es un tratamiento recomendado para la dismenorrea primaria incapacitante según el texto?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál es un tratamiento recomendado para la dismenorrea primaria incapacitante según el texto?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Entre los tratamientos para la dismenorreaprimaria incapacitante se menciona la acupuntura como una opción.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a)  Cirugía.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>b)  Terapia hormonal.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>c)  Acupuntura</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>d)  Dieta baja en grasas</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Cuál de los siguientes síntomas no es del cáncer ginecológico]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cuál de los siguientes síntomas no es del cáncer ginecológico</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la 4, debido a que no es un síntoma del cáncer ginecológico, sino un síntoma de la menopausia.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hinchazón abdominal</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Flujo anormal vaginal</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sangrado postcoital</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Osteoporosis</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Atendiedno a su origen, ¿Cuál es el tipo de cáncer de mama con más prevalencia a nivel mundial?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Atendiedno a su origen, ¿Cuál es el tipo de cáncer de mama con más prevalencia a nivel mundial?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la 1, ya que es el tipo de cancer de mama según su orgien que tiene lugar en pacientes sin antecedentes familiares de la enfermedad. Representa entre un 70 y 80% de los casos totales. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Esporádico</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Familiar</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hereditario</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Inmunitario</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Cuál es el síntoma más frecuente del VPH]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cuál es el síntoma más frecuente del VPH</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la 2, debido a que el resto de síntomas no son del VPH.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No suele dar síntomas</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Las verrugas genitales</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Prurito genital</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Coloración azulada</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Cuál es el método de prevención más eficaz]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cuál es el método de prevención más eficaz</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>La respuesta correcta es la 1, ya que el VPH es un virus que se transmite por contacto de fluidos y el resto no lo evita. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>El preservativo </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Las anticonceptivas</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Da igual puesto que no es un virus de trasmisión sexual</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>DIU</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[A parte de por contacto sexual, ¿por qué otras vías se pueden transmitir las ETS?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A parte de por contacto sexual, ¿por qué otras vías se pueden transmitir las ETS?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 4 porque las ITS se pueden transmitir tanto por sangre como por hemoderivados o vía vertical. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sangre</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hemoderivados</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Vía vertical</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Todas son correctas</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Respecto al embarazo y las ITS, señala la opción incorrecta]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Respecto al embarazo y las ITS, señala la opción incorrecta</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 2 porque una mujer embarazada tiene más riesgo de complicaciones y de infección y por eso tanto ella como su pareja deberían hacerse pruebas de detección. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Mayor riesgo de complicaciones</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Realizar pruebas de detección solo a la embarazada</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Realizar pruebas de detección a la embarazada y a su pareja</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Posible infección del feto</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿A qué edades es más común contraer ITS?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué edades es más común contraer ITS?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 2 porque es el grupo de edad con más riesgo de contraer ITS debido al desconocimiento o a conductas de riesgo.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10 a 14 años</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>15 a 24 años</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>25 a 34 años</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>35 a 44 años</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuál de las siguientes acciones no se consigue con el tratamiento de las ITS?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál de las siguientes acciones no se consigue con el tratamiento de las ITS?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 3 porque el tratamiento no evita que la enfermedad aparezca y se desarrolle. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Evita nuevas infecciones</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Disminuye la transmisibilidad</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Imposibilita la aparición de la enfermedad</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Reduce morbilidad y mortalidad</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Un dolor abdomino-pélvico no cíclico en ausencia de masa pélvica, es …]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Un dolor abdomino-pélvico no cíclico en ausencia de masa pélvica, es …</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 2 porque no hay una masa pélvica que se observe en una ecografia compatible con abscesos de pus. </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Enfermedad Inflamatoria Pélvica con absceso </p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>	Enfermedad Inflamatoria Pélvica sin absceso </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Rotura de quiste anexial </p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Mioma uterino</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Un mioma es…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Un mioma es…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 3 porque un mioma no es canceroso, no se necesita ni quimio ni radio para tratarlo, se puede quitar mediante una intervencion quirurgica para mitigar las manifestaciones clínicas.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Un tumor maligno con baja capacidad para realizar metástasis</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Un tumor benigno pero con capacidad alta de volverse canceroso.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Un tumor benigno con crecimiento normalmente no canceroso.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Un tumor maligno con alta proliferación metastásica.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿El prolapso de los órganos pélvicos es una enfermedad frecuente?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿El prolapso de los órganos pélvicos es una enfermedad frecuente?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 1 porque el prolapso en más frecuente en mujeres que han tenido varios partos ya que se puede destruir el suelo pélvico debido a la distensión ocasionada en los partos, los músculos y ligamentos de la cavidad abdominal están lesionados.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sí, afecta a casi la mitad de las mujeres multíparas</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sí, un 70% de las mujeres lo sufren en su etapa fértil.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No, es una enfermedad rara que afecta solo a mujeres con embarazos múltiples.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sí, es típico en mujeres que realizan ejercicios de Kegel.</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Las manifestaciones clínicas del Síndrome del Ovario Poliquístico son…]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Las manifestaciones clínicas del Síndrome del Ovario Poliquístico son…</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta es la 3  porque la anovulación y el hiperandrogenism ovárico es resultado de una alteración en la secreción pulsátil de asociado a aumento en la resistencia de insulina y obesidad.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Descenso de andrógenos ováricos y suprarrenales favoreciendo en hipoinsulismo secundario.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>La resistencia a la insulina, que es un factor protector en esta enfermedad.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Exceso androgénico predispone al depósito de tejido graso abdominal y visceral, y esto favorece a mayor producción de andrógenos ováricos y suprarrenales.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>La polimenorrea, períodos menstruales frecuentes que se presentan con menos de 21 días entre uno y otro</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Es adecuado realizar algún tipo de profilaxis en mujeres que tengan riesgo de preeclampsia?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Es adecuado realizar algún tipo de profilaxis en mujeres que tengan riesgo de preeclampsia?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Solamente en mujeres de alto riesgo para evitar posibles complicaciones de la profilaxis.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sí, siempre</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>No, solo en mujeres que presente un alto riesgo</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No, porque podemos provocar daños en el feto.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sí, pero solo en caso de que presenten diabetes gestacional</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cual de los siguientes farmacos no se recomienda usar durante el embarazo?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cual de los siguientes farmacos no se recomienda usar durante el embarazo?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Los IECAS estan relacionados con un mayor riesgo de anomalías fetales </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hidrazilina</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Labelatol</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nifedipino</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>IECA's</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuáles son métodos de monitoreo utilizados durante el embarazo para detectar complicaciones relacionadas con la presión arterial?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuáles son métodos de monitoreo utilizados durante el embarazo para detectar complicaciones relacionadas con la presión arterial?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Los métodos de monitoreo para poder detectar complicaciones relacionadas con la presión arterial durante el embarazo son la medición de la presión arterial, análisis de orina y monitoreo continuo de la frecuencia cardíaca fetal.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Medición de la presión arterial, análisis de orina y monitoreo continuo de la frecuencia cardíaca fetal.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ecografía doppler, análisis de sangre y monitoreo continuo de la frecuencia cardíaca fetal.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Medición de la presión arterial, análisis de orina y ultrasonido.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Análisis de sangre, medición de la temperatura corporal y ecografía 3D.</p>]]></text>
+    </answer>
+  </question>
+</quiz>

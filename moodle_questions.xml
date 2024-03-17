@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Es adecuado realizar algún tipo de profilaxis en mujeres que tengan riesgo de preeclampsia?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Es adecuado realizar algún tipo de profilaxis en mujeres que tengan riesgo de preeclampsia?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Solamente en mujeres de alto riesgo para evitar posibles complicaciones de la profilaxis.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sí, siempre</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>No, solo en mujeres que presente un alto riesgo</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No, porque podemos provocar daños en el feto.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sí, pero solo en caso de que presenten diabetes gestacional</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cual de los siguientes farmacos no se recomienda usar durante el embarazo?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cual de los siguientes farmacos no se recomienda usar durante el embarazo?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Los IECAS estan relacionados con un mayor riesgo de anomalías fetales </p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hidrazilina</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Labelatol</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nifedipino</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>IECA's</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[¿Cuáles son métodos de monitoreo utilizados durante el embarazo para detectar complicaciones relacionadas con la presión arterial?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuáles son métodos de monitoreo utilizados durante el embarazo para detectar complicaciones relacionadas con la presión arterial?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Los métodos de monitoreo para poder detectar complicaciones relacionadas con la presión arterial durante el embarazo son la medición de la presión arterial, análisis de orina y monitoreo continuo de la frecuencia cardíaca fetal.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Medición de la presión arterial, análisis de orina y monitoreo continuo de la frecuencia cardíaca fetal.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ecografía doppler, análisis de sangre y monitoreo continuo de la frecuencia cardíaca fetal.</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Medición de la presión arterial, análisis de orina y ultrasonido.</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Análisis de sangre, medición de la temperatura corporal y ecografía 3D.</p>]]></text>
+    </answer>
+  </question>
+</quiz>
